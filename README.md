@@ -1,9 +1,9 @@
-# Mesa-y-recinto-para-la-impresora-Prusa-original-MK3S-con-soporte-para-unidad-MMU2S
-Describo aquí el proceso de montaje que he realizado basándome en esta información:
-    • Tutorial: Prusa Printer Enclosure V2 – with MMU2S support
+# Mesa-y-recinto-para-la-impresora-Prusa-original-MK3S-con-soporte-para-unidad-MMU2S  
+Describo aquí el proceso de montaje que he realizado basándome en esta información:  
+    • Tutorial: Prusa Printer Enclosure V2 – with MMU2S support  
     • Blog de Ondřej Stříteský
 
-![](https://github.com/fgcoca/Mesa-y-recinto-para-la-impresora-Prusa-original-MK3S-con-soporte-para-unidad-MMU2S/blob/master/imagenes/Fase15-abierta.png)
+![](https://github.com/fgcoca/Mesa-y-recinto-para-la-impresora-Prusa-original-MK3S-con-soporte-para-unidad-MMU2S/blob/master/imagenes/minis/Fase15-abierta.png)
 
 # **Enlaces**
 La información del tutorial y el blog la podemos encontrar en estos enlaces:
