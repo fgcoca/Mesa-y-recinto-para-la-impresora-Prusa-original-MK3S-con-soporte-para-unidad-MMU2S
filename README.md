@@ -9,7 +9,7 @@ Describo aquí el proceso de montaje que he realizado basándome en esta informa
 La información del tutorial y el blog la podemos encontrar en estos enlaces:
 * [Tutorial](https://blog.prusaprinters.org/mmu2s-printer-enclosure/)
 * [Blog](https://blog.prusaprinters.org/author/stritacz/)
-* [Acceso a la wiki del respositorio]()
+* [Acceso a la wiki del respositorio](https://github.com/fgcoca/Mesa-y-recinto-para-la-impresora-Prusa-original-MK3S-con-soporte-para-unidad-MMU2S/wiki)
 
 # **Autor**
 
